@@ -32,6 +32,7 @@ Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
 ## 🛠️ Tools
 
 - **[Drop](https://github.com/jadonsmith/drop)**: one-time, end-to-end encrypted text hand-off between phone and PC. [▶ Open](https://jadon.me/drop/)
+- **[NOSI](https://github.com/jadonsmith/nosi)**: lightweight infrastructure monitoring. A tiny shell agent per server feeds a live dashboard with history and a world map. [▶ Open](https://nosi.jadon.me)
 
 ---
 
