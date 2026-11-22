@@ -5,6 +5,13 @@ server: **[jadon.me](https://jadon.me)** · **[play.jadon.me](https://play.jadon
 
 ---
 
+## 🛠️ Tools
+
+- **[Drop](https://github.com/jadonsmith/drop)**: one-time, end-to-end encrypted text hand-off between phone and PC. [▶ Open](https://jadon.me/drop/)
+- **[NOSI](https://github.com/jadonsmith/nosi)** (Network Observation & Status Interface): lightweight infrastructure monitoring. A tiny shell agent per server feeds a live dashboard with history and a world map. [▶ Open](https://nosi.jadon.me)
+
+---
+
 ## 🎮 Games
 
 Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
@@ -16,7 +23,9 @@ Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
 - **[Swirl](https://github.com/jadonsmith/swirl)**: fluid-dynamics territory game. Pour ink, push the liquid, spin vortices. [▶ Play](https://play.jadon.me/swirl/)
 - **[Sand Siege](https://github.com/jadonsmith/sand-siege)**: falling-sand build-and-bombard duel with water, lava, acid and blasts. [▶ Play](https://play.jadon.me/siege/)
 - **[Sensory Overload](https://github.com/jadonsmith/sensory-overload)**: party game of three-second phone-sensor microgames: blow, shake, flip, spin, freeze. Slowest phone loses a heart. [▶ Play](https://play.jadon.me/overload/)
+- **[Puff Regatta](https://github.com/jadonsmith/puff-regatta)**: blow-to-sail racing for 1–8 phones. Blow into the mic to fill your sail, tilt to steer, and race round the buoys until everyone's out of breath. [▶ Play](https://play.jadon.me/regatta/)
 - **[Brim](https://github.com/jadonsmith/brim)**: phone-sensor party relay. Your phone is a glass filled to the brim: run it round the furniture and pour it into your teammate's phone while the other team throws ice cubes at you. [▶ Play](https://play.jadon.me/brim/)
+- **[Wand Duel](https://github.com/jadonsmith/wand-duel)**: 1v1 phone duel. Trace glyphs in the air with your phone, counter what your rival throws, rally it back harder, and shout the spell's name for extra power. [▶ Play](https://play.jadon.me/wand/)
 - **[Quick-Draw Duel](https://github.com/jadonsmith/quickdraw-duel)**: two-player drawing duel with matchmaking and private rooms. [▶ Play](https://play.jadon.me/quickdraw/)
 - **[Trivia Duel](https://github.com/jadonsmith/trivia-duel)**: two-player online trivia, powered by Open Trivia DB. [▶ Play](https://play.jadon.me/trivia/)
 - **[Evolve](https://github.com/jadonsmith/evolve)**: Slither/Tron-style multiplayer arena with bots. [▶ Play](https://play.jadon.me/evolve/)
@@ -29,13 +38,6 @@ Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
 **Kids games**
 
 - [Frog Salon](https://play.jadon.me/frogs/) · [Giant Pumpkin](https://play.jadon.me/giant/) · [Sam's Bakery](https://play.jadon.me/bakery/)
-
----
-
-## 🛠️ Tools
-
-- **[Drop](https://github.com/jadonsmith/drop)**: one-time, end-to-end encrypted text hand-off between phone and PC. [▶ Open](https://jadon.me/drop/)
-- **[NOSI](https://github.com/jadonsmith/nosi)** (Network Observation & Status Interface): lightweight infrastructure monitoring. A tiny shell agent per server feeds a live dashboard with history and a world map. [▶ Open](https://nosi.jadon.me)
 
 ---
 
