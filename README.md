@@ -23,6 +23,7 @@ Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
 **Solo**
 
 - **[Fractal Frontier](https://github.com/jadonsmith/fractal-frontier)**: WebGL2 Mandelbrot/Julia roguelike. [▶ Play](https://play.jadon.me/fractal/)
+- **[Back to Back](https://github.com/jadonsmith/back-to-back)**: 360° phone AR defence. Monsters come from every side, so turn around to zap them, solo or back to back with a friend. [▶ Play](https://play.jadon.me/backtoback/)
 
 **Kids games**
 
