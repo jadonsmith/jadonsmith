@@ -16,6 +16,7 @@ Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
 - **[Swirl](https://github.com/jadonsmith/swirl)**: fluid-dynamics territory game. Pour ink, push the liquid, spin vortices. [▶ Play](https://play.jadon.me/swirl/)
 - **[Sand Siege](https://github.com/jadonsmith/sand-siege)**: falling-sand build-and-bombard duel with water, lava, acid and blasts. [▶ Play](https://play.jadon.me/siege/)
 - **[Sensory Overload](https://github.com/jadonsmith/sensory-overload)**: party game of three-second phone-sensor microgames: blow, shake, flip, spin, freeze. Slowest phone loses a heart. [▶ Play](https://play.jadon.me/overload/)
+- **[Brim](https://github.com/jadonsmith/brim)**: phone-sensor party relay. Your phone is a glass filled to the brim: run it round the furniture and pour it into your teammate's phone while the other team throws ice cubes at you. [▶ Play](https://play.jadon.me/brim/)
 - **[Quick-Draw Duel](https://github.com/jadonsmith/quickdraw-duel)**: two-player drawing duel with matchmaking and private rooms. [▶ Play](https://play.jadon.me/quickdraw/)
 - **[Trivia Duel](https://github.com/jadonsmith/trivia-duel)**: two-player online trivia, powered by Open Trivia DB. [▶ Play](https://play.jadon.me/trivia/)
 - **[Evolve](https://github.com/jadonsmith/evolve)**: Slither/Tron-style multiplayer arena with bots. [▶ Play](https://play.jadon.me/evolve/)
