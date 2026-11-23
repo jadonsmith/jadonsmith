@@ -21,7 +21,6 @@ Small browser games, all playable at **[play.jadon.me](https://play.jadon.me)**.
 - **[Polarity](https://github.com/jadonsmith/polarity)**: charge-flipping knockout on shrinking ice. Opposites attract, likes repel. [▶ Play](https://play.jadon.me/polarity/)
 - **[Gravity Wells](https://github.com/jadonsmith/gravity-wells)**: simultaneous-turn gravity artillery around stars and black holes. [▶ Play](https://play.jadon.me/gravity/)
 - **[Swirl](https://github.com/jadonsmith/swirl)**: fluid-dynamics territory game. Pour ink, push the liquid, spin vortices. [▶ Play](https://play.jadon.me/swirl/)
-- **[Sand Siege](https://github.com/jadonsmith/sand-siege)**: falling-sand build-and-bombard duel with water, lava, acid and blasts. [▶ Play](https://play.jadon.me/siege/)
 - **[Sensory Overload](https://github.com/jadonsmith/sensory-overload)**: party game of three-second phone-sensor microgames: blow, shake, flip, spin, freeze. Slowest phone loses a heart. [▶ Play](https://play.jadon.me/overload/)
 - **[Hot Potato](https://github.com/jadonsmith/hot-potato)**: one phone passed round the room on a hidden fuse. Do the sensor dare (blow, shake, flip, spin…) to pass it on, and don't be holding it when it blows. [▶ Play](https://play.jadon.me/potato/)
 - **[Puff Regatta](https://github.com/jadonsmith/puff-regatta)**: blow-to-sail racing for 1–8 phones. Blow into the mic to fill your sail, tilt to steer, and race round the buoys until everyone's out of breath. [▶ Play](https://play.jadon.me/regatta/)
